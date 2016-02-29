@@ -5,3 +5,6 @@ Creating a new branch is quick and simple.
 with Fast forward
 deal bug first.
 do something.
+deal bug101
+deal bug101 again.
+
