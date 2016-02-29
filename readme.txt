@@ -5,3 +5,4 @@ Creating a new branch is quick and simple.
 with Fast forward
 deal bug101
 deal bug101 again.
+deal bug 102.
